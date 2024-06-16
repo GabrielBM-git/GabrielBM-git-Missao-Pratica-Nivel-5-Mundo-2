@@ -1,0 +1,25 @@
+
+main {
+    margin: 10px;
+}
+
+table th {
+    background-color: black;
+    color: white;
+}
+
+.td-titulo {
+    max-width: 140px;
+}
+
+.td-resumo {
+    max-width: 300px;
+}
+
+.link {
+    color: white;
+}
+
+.link:hover {
+    color: silver;
+}
